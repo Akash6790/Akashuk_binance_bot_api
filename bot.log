@@ -1,0 +1,19 @@
+2025-11-12 15:25:39,720 INFO market_orders - Placing market order: BTCUSDT BUY 0.001
+2025-11-12 15:25:42,443 INFO market_orders - Order response: {}
+2025-11-12 15:26:28,184 INFO limit_orders - Placing limit order: BTCUSDT SELL 0.001 @ 65000.0
+2025-11-12 15:26:28,632 INFO limit_orders - Order response: {}
+2025-11-12 15:27:06,681 INFO advanced.twap - TWAP slice 1/5: placing market order of 0.002
+2025-11-12 15:28:10,937 INFO advanced.oco - Placing take-profit order (limit)
+2025-11-12 15:28:13,760 INFO advanced.oco - Placing stop order
+2025-11-12 15:28:13,965 INFO advanced.oco - TP order: {}
+2025-11-12 15:28:13,966 INFO advanced.oco - Stop order: {}
+2025-11-12 15:28:16,456 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:18,935 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:21,359 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:23,798 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:26,229 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:28,678 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:31,339 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:33,958 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:36,616 INFO advanced.oco - TP status: None, Stop status: None
+2025-11-12 15:28:39,258 INFO advanced.oco - TP status: None, Stop status: None
